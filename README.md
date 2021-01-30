@@ -1,4 +1,4 @@
-# learning-nginx <img src="https://raw.githubusercontent.com/aditya109/learning-haproxy/main/assets/logo.svg" height=35/>
+# learning-haproxy <img src="https://raw.githubusercontent.com/aditya109/learning-haproxy/main/assets/logo.svg" height=35/>
 
 Warm welcome, seeker ! Hope this repository serves its purpose to fulfill your curiosity.
 
